@@ -1,4 +1,4 @@
-🛒 Retail Sales Analysis – Data Analytics Project
+#🛒 Retail Sales Analysis – Data Analytics Project
 This project is a complete end-to-end retail sales analysis built using Python, Pandas, and visualization libraries.
 It explores customer behavior, monthly trends, product category performance, and key revenue drivers using a real retail dataset.
 
@@ -23,20 +23,26 @@ Google Colab
 
 📊 Key Visualizations
 Category Sales Performance
-Category Sales
+<img width="722" height="470" alt="category_sales" src="https://github.com/user-attachments/assets/4c0d289c-1826-4c8d-9a27-b1e5c73a4ed5" />
+
+
+
 
 age Sales distribution
-age Trend
+<img width="1005" height="470" alt="age_distribution" src="https://github.com/user-attachments/assets/39bc1489-972d-4fd2-9f89-822ce9d82391" />
+
 
 Daily sales Forecasting using linear regression
-Daily Sales
+<img width="1014" height="470" alt="Daily Sales Forecasting" src="https://github.com/user-attachments/assets/7c55d589-760a-4983-9a91-8fedf39a1b0a" />
+
 
 Gender-Based Sales
-Gender Sales
+<img width="1014" height="470" alt="gender_sales" src="https://github.com/user-attachments/assets/95eea7c7-4e68-4705-8eed-733bbf5d8ba4" />
+
 
 ▶️ How to Run the Project
 1. Clone the Repository
-git clone 
+git clone https://github.com/karan-singh-yadav/retail-sales-analysis-ml
 
 Install Dependencies pip install pandas numpy matplotlib seaborn
 
