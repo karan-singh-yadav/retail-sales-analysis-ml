@@ -1,4 +1,4 @@
-#🛒 Retail Sales Analysis – Data Analytics Project
+🛒 Retail Sales Analysis – Data Analytics Project
 This project is a complete end-to-end retail sales analysis built using Python, Pandas, and visualization libraries.
 It explores customer behavior, monthly trends, product category performance, and key revenue drivers using a real retail dataset.
 
